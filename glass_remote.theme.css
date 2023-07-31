@@ -181,8 +181,9 @@
 
 /* Read all background color*/
 .lookFilled-1H2Jvj
-.colorBrand-2M3O3N
-
+.colorBrand-2M3O3N {
+    background-color: var(--normal-background);
+}
 .container-1oAagU > div > div {
     border: #666 solid 1px;
     background-color: var(--normal-background) !important;
