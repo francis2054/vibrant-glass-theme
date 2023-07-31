@@ -185,4 +185,5 @@
 
 .container-1oAagU > div > div {
     border: #666 solid 1px;
+    background-color: var(--normal-background) !important;
 }
