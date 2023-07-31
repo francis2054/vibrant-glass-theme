@@ -180,6 +180,7 @@
 }
 
 /* Read all background color*/
-.lookFilled-1H2Jvj.colorBrand-2M3O3N {
-    background-color: var(--normal-background);
+.lookFilled-1H2Jvj,
+.colorBrand-2M3O3N {
+    background-color: transparent !important;
 }
