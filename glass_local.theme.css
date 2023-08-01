@@ -36,7 +36,7 @@ to create custom gradient : https://cssgradient.io/ and copy the linear-gradient
     /*
     color of the Discord window name
     default : rgb(255, 255, 255) */
-    --window-name-color: rgb(255, 255, 255);
+    --window-name-opacity: 0.5;
     /*
     opacity, but lighter
     default : 0.2 */
