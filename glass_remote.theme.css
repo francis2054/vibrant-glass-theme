@@ -38,9 +38,7 @@
     letter-spacing: 1px;
     content: var(--window-name);
     position: absolute;
-    background: var(--dark-opacity);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    background: var(--normal-background);
     background-clip: text;
     font-size: 15px;
     font-weight: bold;
