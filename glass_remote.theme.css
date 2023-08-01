@@ -189,6 +189,7 @@
     background-color: transparent;
 }
 /* Context Menu */
-.menu-2TXYjN {
-    opacity: 1;
+.flexible-3B4jwn {
+    opacity: 0.5;
+    background-color: var(--light-background) !important;
 }
